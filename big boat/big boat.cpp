@@ -50,20 +50,18 @@ int main()
 			x = x - 1;
 			
 		}
-
-	if (y > 0)
 		
-		cout << flag1;
-		cout << flag2;
-		cout << flag3;
-		cout << flag4;
-		while (y > 1)
-		{
-			y = y - 1;
-			cout << pole;
-		}
-		cout << boat1;
-		cout << boat2;
-		cout << boat3;
-		cout << boat4;
+	cout << flag1;
+	cout << flag2;
+	cout << flag3;
+	cout << flag4;
+	while (y > 1)
+	{
+		y = y - 1;
+		cout << pole;
+	}
+	cout << boat1;
+	cout << boat2;
+	cout << boat3;
+	cout << boat4;
 }
