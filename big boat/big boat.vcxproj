@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ad4fbf77-5189-4eea-9729-a9fce0016ed5}</ProjectGuid>
+    <ProjectGuid>{0bbe8284-2696-49f5-ab89-b68ba1612915}</ProjectGuid>
     <RootNamespace>bigboat</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
